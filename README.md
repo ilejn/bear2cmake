@@ -30,7 +30,8 @@ The flow
 What You get
 ------------
 
-* CMakeLists.txt with one target, which type depends on *project-name* parameter
+CMakeLists.txt with
+* one target, which type depends on *project-name* parameter
 * *target_sources* aggregates all source files compiled during step(2) from the above paragraph
 * *target_include_directories* combines all *-I* parameters
 * *target_compile_definitions* combines all *-D* parameters
